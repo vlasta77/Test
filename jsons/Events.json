@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Starting Bonus",
+        "text": "Pick Your Starting Bonuses (Can only pick one).",
+        "choices": [
+            {
+                "text": "Free Ranged Unit",
+                "triggeredUniques": ["Free [Archer] appears"],
+                "conditions": []
+            },
+            {
+                "text": "Free Melee Unit",
+                "triggeredUniques": ["Free [Warrior] appears"],
+                "conditions": []
+            },
+            {
+                "text": "Free Scout Unit",
+                "triggeredUniques": ["Free [Scout] appears"],
+                "conditions": []
+            },
+            {
+                "text": "Faster Great General",
+                "triggeredUniques": ["[Great General] is earned [33]% faster"],
+                "conditions": []
+            },
+            {
+                "text": "Free Worker",
+                "triggeredUniques": ["Free [Worker] appears", "[+1 Gold, +2 Production] [in all cities]"],
+                "conditions": []
+            },
+            {
+                "text": "Faster Great Scientist",
+                "triggeredUniques": ["[Great Scientist] is earned [33]% faster"],
+                "conditions": []
+            },
+            {
+                "text": "1+ Production Start",
+                "triggeredUniques": ["[+1 Production] [in capital]"],
+                "conditions": []
+            },
+            {
+                "text": "2+ Food Start",
+                "triggeredUniques": ["[+2 Food] [in capital]"],
+                "conditions": []
+            },
+            {
+                "text": "1+ Culture Start",
+                "triggeredUniques": ["[+1 Culture] [in capital]"],
+                "conditions": []
+            },
+            {
+                "text": "Faster Tile Expansion",
+                "triggeredUniques": ["[-33]% Culture cost of natural border growth [in capital]"],
+                "conditions": []
+            },
+            {
+                "text": "More Settler Production",
+                "triggeredUniques": ["[+33]% Production when constructing [Settler] units [in capital]"],
+                "conditions": []
+            },
+            {
+                "text": "More City-States Influence",
+                "triggeredUniques": ["Gifts of Gold to City-States generate [+33]% more Influence",
+                                     "Resting point for Influence with City-States is increased by [15]"],
+                "conditions": []
+            },
+            {
+                "text": "More Military Production",
+                "triggeredUniques": ["[+33]% Production when constructing [Military] units [in capital]"],
+                "conditions": []
+            },
+            {
+                "text": "Discounted Tiles",
+                "triggeredUniques": ["[-33]% Gold cost of acquiring tiles [in capital]"],
+                "conditions": []
+            },
+            {
+                "text": "Less Degradations",
+                "triggeredUniques": ["[-33]% City-State Influence degradation",
+                                     "Resting point for Influence with City-States is increased by [15]"],
+                "conditions": []
+            },
+            {
+                "text": "Discounted Buy Building",
+                "triggeredUniques": ["[Gold] cost of purchasing items in cities [-33]%"],
+                "conditions": []
+            },
+            {
+                "text": "1+ Scout Movement",
+                "triggeredUniques": ["[+1] Movement <for [Scout] units>"],
+                "conditions": []
+            },
+            {
+                "text": "1+ Naval Unit Movement",
+                "triggeredUniques": ["[+1] Movement <for [Water] units>"],
+                "conditions": []
+            },
+            {
+                "text": "1+ Non-Military Unit Movement",
+                "triggeredUniques": ["[+1] Movement <for [non-[Military]] units>"],
+                "conditions": []
+            },
+            {
+                "text": "Double Great General Bonus",
+                "triggeredUniques": ["Great General provides double combat bonus"],
+                "conditions": []
+            },
+        ]
+    },
+]
