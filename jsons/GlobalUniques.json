@@ -2,3 +2,7 @@
         "name": "Global uniques",
         "uniques": ["[+4] population [in capital] <upon founding a city> <before turn number [5]>"]
 }
+{
+        "name": "Global uniques",
+        "uniques": ["[5] Free Social Policies <upon founding a city> <before turn number [5]>"]
+}
