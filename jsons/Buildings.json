@@ -17,7 +17,7 @@
 		"name": "Workshop",
 		"cost": 1,
 		"maintenance": 1,
-		"production": 5,
+		"production": 15,
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
 		"requiredTech": "Agriculture"
