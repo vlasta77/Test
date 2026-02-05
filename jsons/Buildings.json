@@ -13,6 +13,15 @@
 		"cost": 0,
 		"uniques": ["Indicates the capital city"]
 	},
+		{
+		"name": "Workshop",
+		"cost": 1,
+		"maintenance": 1,
+		"production": 5,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"requiredTech": "Agriculture"
+	},
 	{
 		"name": "Monument",
 		"culture": 2,
@@ -502,15 +511,6 @@
 		"uniques": ["[+25]% [Gold] from Trade Routes", "Must have an owned [{non-[Natural Wonder]} {Mountain}] within [2] tiles"],
 		"requiredTech": "Guilds",
 		"quote": "'Few romances can ever surpass that of the granite citadel on top of the beetling precipices of Machu Picchu, the crown of Inca Land.' - Hiram Bingham"
-	},
-	{
-		"name": "Workshop",
-		"cost": 1,
-		"maintenance": 1,
-		"production": 5,
-		"specialistSlots": {"Engineer": 1},
-		"hurryCostModifier": 25,
-		"requiredTech": "Agriculture"
 	},
 	{
 		"name": "Longhouse",
