@@ -39,5 +39,35 @@
         "notification": "We have discovered the lost technology of [techName] in the ruins!",
         "uniques": ["[1] free random researchable Tech(s) from the [Ancient era]"],
 		"color": "#7f7fff"
-    }
+    },
+	{
+        "name": "advanced weaponry for your explorer",
+		"notification": "",  // trigger notification only
+        "uniques": ["Gain [500]-[1000] [Gold] <(modified by game speed)>"],
+        "color": "#ffeb7f"
+    },
+    {
+        "name": "reveal nearby Barbarian camps",
+        "notification": "",  // trigger notification only
+        "uniques": ["Gain [500]-[1000] [Gold] <(modified by game speed)>"],
+        "color": "#ffeb7f"
+    },
+    {
+        "name": "find a crudely-drawn map",
+		"notification": "",  // trigger notification only
+        "uniques": ["Gain [500]-[1000] [Gold] <(modified by game speed)>"],
+        "color": "#ffeb7f"
+    },
+    {
+        "name": "discover holy symbols",
+        "notification": "",  // trigger notification only
+        "uniques": ["Gain [500]-[1000] [Gold] <(modified by game speed)>"],
+        "color": "#ffeb7f"
+    },
+    {
+        "name": "an ancient prophecy",
+        "notification": "",  // trigger notification only
+        "uniques": ["Gain [500]-[1000] [Gold] <(modified by game speed)>"],
+        "color": "#ffeb7f""
+	}
 ]
