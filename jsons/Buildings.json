@@ -5,7 +5,7 @@
 	{
 		"name": "Palace",
 		"isNationalWonder": true,
-		"production": 3,
+		"production": 5,
 		"science": 3,
 		"gold": 3,
 		"culture": 1,
