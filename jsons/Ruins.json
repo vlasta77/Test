@@ -68,6 +68,6 @@
         "name": "an ancient prophecy",
         "notification": "",  // trigger notification only
         "uniques": ["Gain [500]-[1000] [Gold] <(modified by game speed)>"],
-        "color": "#ffeb7f""
+        "color": "#ffeb7f"
 	}
 ]
