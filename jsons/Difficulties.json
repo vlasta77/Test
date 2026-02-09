@@ -3,7 +3,7 @@
 		"name": "Warlord",
 		"baseHappiness": 8,
 		"extraHappinessPerLuxury": 0,
-		"researchCostModifier": 1,
+		"researchCostModifier": 1.5,
 		"unitCostModifier": 1,
 		"unitSupplyBase": 5,
 		"unitSupplyPerCity": 1,
