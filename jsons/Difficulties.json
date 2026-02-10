@@ -1,9 +1,9 @@
 [
 	{
-		"name": "Prince",
+		"name": "Fair",
 		"baseHappiness": 12,
 		"extraHappinessPerLuxury": 0,
-		"researchCostModifier": 2,
+		"researchCostModifier": 0.25,
 		"unitCostModifier": 1,
 		"unitSupplyBase": 5,
 		"unitSupplyPerCity": 1,
@@ -14,7 +14,6 @@
 		"barbarianSpawnDelay": 3,
 		"playerBonusStartingUnits": ["Scout", "Scout"],
 		"aiDifficultyLevel": "Prince",
-		"aiResearchCostModifier": 20,
 		"aiCityGrowthModifier": 1,
 		"aiUnitCostModifier": 1,
 		"aiBuildingCostModifier": 1,
