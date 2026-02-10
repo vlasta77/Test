@@ -1,9 +1,9 @@
 [
 	{
-		"name": "Warlord",
-		"baseHappiness": 8,
+		"name": "Prince",
+		"baseHappiness": 12,
 		"extraHappinessPerLuxury": 0,
-		"researchCostModifier": 1.5,
+		"researchCostModifier": 2,
 		"unitCostModifier": 1,
 		"unitSupplyBase": 5,
 		"unitSupplyPerCity": 1,
