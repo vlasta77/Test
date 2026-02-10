@@ -14,6 +14,7 @@
 		"barbarianSpawnDelay": 3,
 		"playerBonusStartingUnits": ["Scout", "Scout"],
 		"aiDifficultyLevel": "Prince",
+		"aiResearchCostModifier": 2,
 		"aiCityGrowthModifier": 1,
 		"aiUnitCostModifier": 1,
 		"aiBuildingCostModifier": 1,
