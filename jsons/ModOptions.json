@@ -1,8 +1,8 @@
 {
     "constants": {
-      "cityExpandRange": 6,
+      "cityWorkRange": 5,
       "unitSupplyPerPopulation": 0.1,
       "minimalCityDistance": 3,
-      "minimalCityDistanceOnDifferentContinents": 3
+      "minimalCityDistanceOnDifferentContinents": 2
     }
   }
