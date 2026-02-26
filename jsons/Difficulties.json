@@ -1,12 +1,12 @@
 [
 	{
 		"name": "Fair",
-		"baseHappiness": 12,
+		"baseHappiness": 24,
 		"extraHappinessPerLuxury": 0,
 		"researchCostModifier": 1,
 		"unitCostModifier": 1,
 		"unitSupplyBase": 5,
-		"unitSupplyPerCity": 1,
+		"unitSupplyPerCity": 2,
 		"buildingCostModifier": 0.25,
 		"policyCostModifier": 1,
 		"unhappinessModifier": 1,
@@ -16,7 +16,6 @@
 		"aiDifficultyLevel": "Fair",
 		"aiCityGrowthModifier": 1,
 		"aiUnitCostModifier": 1,
-		"aiBuildingCostModifier": 0.25,
 		"aiWonderCostModifier": 1,
 		"aiBuildingMaintenanceModifier": 1,
 		"aiUnitMaintenanceModifier": 1,
@@ -27,6 +26,6 @@
 		"aiUnhappinessModifier": 1,
 		"aisExchangeTechs": false,
 		"turnBarbariansCanEnterPlayerTiles": 25,
-		"clearBarbarianCampReward": 100
+		"clearBarbarianCampReward": 1000
 	}
 ]
