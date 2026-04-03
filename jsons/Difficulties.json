@@ -12,7 +12,7 @@
 		"unhappinessModifier": 1,
 		"barbarianBonus": 0.5,
 		"barbarianSpawnDelay": 3,
-		"playerBonusStartingUnits": ["Scout", "Scout"],
+		"playerBonusStartingUnits": ["Scout", "Scout", "Scout", "Scout"],
 		"aiDifficultyLevel": "Fair",
 		"aiCityGrowthModifier": 1,
 		"aiUnitCostModifier": 1,
